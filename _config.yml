@@ -21,7 +21,7 @@ repository               : "https://github.com/UnisannioEOLab/UnisannioEOLab.git
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "logo.png"
   name             : "UnisannioEOLab"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
